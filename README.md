@@ -73,9 +73,9 @@ The API will be available at `http://localhost:8000/api`.
 
 We provide comprehensive documentation in three formats to suit different needs:
 
-- **Interactive Explorer**: Use the [`/docs/api`](http://localhost:8000/docs/api) endpoint for a live, "try-it-out" experience (powered by Scramble).
-- **Technical Reference**: Refer to [`docs/API.md`](docs/API.md) for a detailed mapping of endpoints, request bodies, and error codes.
-- **Postman Collection**: Import [`docs/Postman_Collection.json`](docs/Postman_Collection.json) to quickly test the API with pre-configured requests.
+- **Interactive Explorer**: Available at [`/docs/api`](http://localhost:8000/docs/api) for a live, "try-it-out" experience (powered by Scramble). For more details on how this works, [see the API Documentation](#api-documentation) section below.
+- **Technical Reference**: See the [Detailed API Reference](docs/API.md) for a full mapping of endpoints, request bodies, and error codes.
+- **Postman Collection**: Import the [Postman Collection JSON](docs/Postman_Collection.json) to quickly test the API with pre-configured requests.
 
 ---
 
